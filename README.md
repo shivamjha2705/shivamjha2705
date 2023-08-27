@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6c0f9b95746151.5e9ecde69599e.gif)](https://shivamk01.web.app/)
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding_profile" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif">
+<img align="right" alt="Coding_profile" width="400px" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamjha2705&label=Profile%20views&color=0e75b6&style=flat" alt="shivamjha2705" /> </p>
 
