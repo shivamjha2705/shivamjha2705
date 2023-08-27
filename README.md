@@ -1,7 +1,7 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6c0f9b95746151.5e9ecde69599e.gif)](https://shivamjha2705.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6c0f9b95746151.5e9ecde69599e.gif)](https://shivamk01.web.app/)
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding_profile" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif" />
+<img align="right" alt="Coding_profile" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamjha2705&label=Profile%20views&color=0e75b6&style=flat" alt="shivamjha2705" /> </p>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shivam_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shivam_05" height="30" width="40" /></a>
+<a href="https://codepen.io/shivam_05" target="blank"><img align="center" src="https://www.svgrepo.com/show/330189/codepen.svg" alt="shivam_05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivam-kumar-05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-05" height="30" width="40" /></a>
 <a href="https://dribbble.com/shivamjha2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shivamjha2705" height="30" width="40" /></a>
 <a href="https://www.behance.net/shivamjha10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shivamjha10" height="30" width="40" /></a>
