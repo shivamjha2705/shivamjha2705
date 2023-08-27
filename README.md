@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/shivam_05" target="blank"><img align="center" src="https://www.svgrepo.com/show/330189/codepen.svg" alt="shivam_05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam-kumar-05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-05" height="30" width="40" /></a>
-<a href="https://dribbble.com/shivamjha2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shivamjha2705" height="30" width="40" /></a>
-<a href="https://www.behance.net/shivamjha10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shivamjha10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shivamjha2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivamjha2705" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam-kumar-05" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="shivam-kumar-05" height="30" width="40" /></a>
+<a href="https://dribbble.com/shivamjha2705" target="_blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="shivamjha2705" height="30" width="40" /></a>
+<a href="https://www.behance.net/shivamjha10" target="_blank"><img align="center" src="https://www.cdnlogo.com/logos/b/29/behance.svg" alt="shivamjha10" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shivamjha2705" target="_blank"><img align="center" src="https://static.cdnlogo.com/logos/h/58/hackerrank.svg" alt="shivamjha2705" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
