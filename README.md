@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js , Sanity(CMS Tool)**
 
-- 👨‍💻 My projects are available at [https://shivamk01.web.app/](https://shivamk01.web.app/)
+- 👨‍💻 My projects are available at [https://shivamkr5.netlify.app/](https://shivamk01.web.app/)
 
 - 💬 Ask me about **Html, Css, Js, Java, Sql**
 
