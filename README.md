@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamjha2705&label=Profile%20views&color=0e75b6&style=flat" alt="shivamjha2705" /> </p>
 
-- 🔭 I’m currently working on **SnapShare(Image Sharing Community App)**
+- 🔭 I’m currently working on **An E-commerce platform UI**
 
-- 🌱 I’m currently learning **React js , Sanity(CMS Tool)**
+- 🌱 I’m currently learning **Next Js , Typescript, Framer Motion**
 
-- 👨‍💻 My projects are available at [https://shivamkr5.netlify.app/](https://shivamk01.web.app/)
+- 👨‍💻 My projects are available at [https://shivamkr5.netlify.app/](https://shivamkr5.netlify.app)
 
-- 💬 Ask me about **Html, Css, Js, Java, Sql**
+- 💬 Ask me about **Html, Css, JavaScript, React JS, Tailwind CSS, Performance Optimization, Framer Motion, Locomotive**
 
 - 📫 How to reach me **shivamjha2705@gmail.com**
 
